@@ -1,5 +1,5 @@
 Hi 👋 My name is Yurio Dwi El Saputra 
-===============================
+=====================================
 
 <b>My GitHub Stats</b>
 
